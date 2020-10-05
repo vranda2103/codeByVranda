@@ -2,10 +2,11 @@
 int input()
 {
     printf("Enter number : ");
-    int n;
-    scanf("%d",&n);
-    return n;
+    int abc;
+    scanf("%d",&abc);
+    return abc;
 }
+
 int main()
 {
     char s[20];
