@@ -13,7 +13,7 @@ int main()
     //insertion sort code.
     for(i=1;i<n;i++)
     {
-        temporary=a[i];
+        temp=a[i];
         for(j=i-1;j>=0;j--)
         {
             if(temp<a[j])    //ascending order.
